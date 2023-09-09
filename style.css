@@ -1,0 +1,21 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: rgb(175, 205, 205);
+}
+
+[data-testid="slackDisplayImage"]{
+  border-radius: 50%;
+  max-width: 300px;
+}
+
+h1{
+  font-size: 50px;
+}
+
+div, span, a {
+  padding-top: 10px;
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
